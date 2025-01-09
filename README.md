@@ -10,7 +10,7 @@ DOI : _insert_
 
 __This repository contains the SURFER v2.9 models that integrates the AMOC Tipping Calibration Module (ATCM)__ used and described in Laridon et al.[1] _"Connecting Complex and Simplified Models of Tipping Elements: A Nonlinear Two-Forcing Emulator for the Atlantic Meridional Overturning Circulation"_
 
-The ATCM is a tipping element emulator of the AMOC based on the normal form of a double-fold bifurcation. It is a two forcing variables system that allows to simulate the evolution of the AMOC under the temperature anomaly forcing and the freshwater flux forcing coming from the melting of the Greenland Ice Sheet. The ATCM can be calibrate based on two calibration experiments coming from a complex model. The calibration module is a generalization of the one present in Martinez Monteiro et al.[1]. 
+The ATCM is a tipping element emulator of the AMOC based on the normal form of a double-fold bifurcation. It is a two forcing variables system that allows to simulate the evolution of the AMOC under the temperature anomaly forcing and the freshwater flux forcing coming from the melting of the Greenland Ice Sheet. The ATCM can be calibrate based on two calibration experiments coming from a complex model. The calibration module is a generalization of the one present in Martinez Monteiro et al.[1,4]. 
 
 SURFER is a reduced complexity climate model with a process-based carbon cycle [1,2]. We integrate the ATCM into SURFER v2.9 to obtain a tipping element emulator of the AMOC integrate into a reduced complexity climate model.  
 
@@ -31,7 +31,7 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 ### How to run
 
 1. Change the `base_path` variable to the main directory in which you saved this repository.
-2. Download the cGenie simulations _Zenodo Link_ used in Laridon et al.[1]
+2. Download the cGenie simulations _[Zenodo](https://zenodo.org/records/14514230)_ used in Laridon et al.[1]
 3. Upload the cGenie simulations in the `base_path/data/cGenie simulations/Paper simulations/` directory
 4. Run the Notebook.
 
@@ -74,5 +74,8 @@ _insert references_
 - [2] M. Martínez Montero, M. Crucifix, V. Couplet, N. Brede, and N. Botta, ‘SURFER v2.0: a flexible and simple model linking anthropogenic CO2 emissions and solar radiation modification to ocean acidification and sea level rise’, Geoscientific Model Development, vol. 15, no. 21, pp. 8059–8084, Nov. 2022, doi: 10.5194/gmd-15-8059-2022.
 
 - [3] V. Couplet, M. Montero, and M. Crucifix, SURFER v3.0: a fast model with ice sheet tipping points and carbon cycle feedbacks for short and long-term climate scenarios. 2024. doi: 10.5194/egusphere-2024-2279.
+
+- [4] V. Couplet, N. Wunderling, and M. Crucifix, ‘Tipping interactions and cascades on multimillennial time scales in a model of reduced complexity’, 2024.
+
 
 
