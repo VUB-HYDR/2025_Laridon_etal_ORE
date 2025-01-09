@@ -67,8 +67,6 @@ Contact author : Amaury.Laridon@vub.be
 ## References
 ---
 
-_insert references_
-
 - [1] A. Laridon, V. Couplet, J. Gérard, W. Thiery, M. Crucifix, "Connecting Complex and Simplified Models of Tipping Elements: A Nonlinear Two-Forcing Emulator for the Atlantic Meridional Overturning Circulation", Open Research Europe, Jan. 2025, doi : ? 
 
 - [2] M. Martínez Montero, M. Crucifix, V. Couplet, N. Brede, and N. Botta, ‘SURFER v2.0: a flexible and simple model linking anthropogenic CO2 emissions and solar radiation modification to ocean acidification and sea level rise’, Geoscientific Model Development, vol. 15, no. 21, pp. 8059–8084, Nov. 2022, doi: 10.5194/gmd-15-8059-2022.
