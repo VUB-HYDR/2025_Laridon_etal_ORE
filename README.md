@@ -29,7 +29,7 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 ### How to run
 
 1. Change the `base_path` variable to the main directory in which you saved this repository.
-2. Download the cGenie simulations _[Zenodo](https://zenodo.org/records/14514230)_ used in Laridon et al.[1]
+2. Download the cGenie simulations _[Zenodo](https://zenodo.org/records/14514230)_ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14514230.svg)](https://doi.org/10.5281/zenodo.14514230) 
 3. Upload the cGenie simulations in the `base_path/data/cGenie simulations/Paper simulations/` directory
 4. Run the Notebook.
 
