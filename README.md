@@ -1,11 +1,6 @@
 # SURFER v2.9 with AMOC Tipping Calibration Module (ATCM)
 ---
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/3f12d1e0-ba62-4af6-b2c7-52406b6af1da" width="600" height="600">
-</div>
-
-
 DOI : _insert_
 
 __This repository contains the SURFER v2.9 models that integrates the AMOC Tipping Calibration Module (ATCM)__ used and described in Laridon et al.[1] _"Connecting Complex and Simplified Models of Tipping Elements: A Nonlinear Two-Forcing Emulator for the Atlantic Meridional Overturning Circulation"_
@@ -14,6 +9,9 @@ The ATCM is a tipping element emulator of the AMOC based on the normal form of a
 
 SURFER is a reduced complexity climate model with a process-based carbon cycle [1,2]. We integrate the ATCM into SURFER v2.9 to obtain a tipping element emulator of the AMOC integrate into a reduced complexity climate model.  
 
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/3f12d1e0-ba62-4af6-b2c7-52406b6af1da" width="600" height="600">
+</div>
 
 ## ATCM
 ---
