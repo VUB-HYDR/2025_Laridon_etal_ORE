@@ -25,16 +25,16 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 - Mathematical framework behind the AMOC Tipping Calibration Module (ATCM)
 - The ATCM 
 - The ATCM Calibration Validation test 
-- cGenie Emulation
+- cGENIE Emulation
     - Calibration of the internal dynamics parameters 
     - Calibration of the characteristic time scale parameter
-- ATCM validation on an other cGenie experiment
+- ATCM validation on an other cGENIE experiment
 
 ### How to run
 
 1. Change the `base_path` variable to the main directory in which you saved this repository.
-2. Download the cGenie simulations _[Zenodo](https://zenodo.org/records/14514230)_ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14514230.svg)](https://doi.org/10.5281/zenodo.14514230) 
-3. Upload the cGenie simulations in the `base_path/data/cGenie simulations/Paper simulations/` directory
+2. Download the cGENIE simulations _[Zenodo](https://zenodo.org/records/14514230)_ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14514230.svg)](https://doi.org/10.5281/zenodo.14514230) 
+3. Upload the cGENIE simulations in the `base_path/data/cGENIE simulations/Paper simulations/` directory
 4. Run the Notebook.
 
 
