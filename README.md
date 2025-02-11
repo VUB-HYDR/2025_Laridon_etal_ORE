@@ -13,7 +13,8 @@ The ATCM is a tipping element emulator of the AMOC based on the normal form of a
 
 SURFER is a reduced complexity climate model with a process-based carbon cycle [1,2]. We integrate the ATCM into SURFER v2.9 to obtain a tipping element emulator of the AMOC integrate into a reduced complexity climate model.  
 
-![Figure2](https://github.com/user-attachments/assets/aa5ea720-3e46-4d4f-9f73-db4bedfa055a)
+![Figure2](https://github.com/user-attachments/assets/ab9eab7c-a5f9-4914-9976-6278278e3af1)
+
 
 ## ATCM
 ---
