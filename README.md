@@ -56,7 +56,7 @@ Version January 2025
 ## Authors
 ---
 
-__Amaury Laridon(1), Victor Couplet(2), Justin Gérard(2), Wim Thiery (1), Michel Crucifix(2)__
+__Amaury Laridon(1,2), Victor Couplet(2), Justin Gérard(2), Wim Thiery (1), Michel Crucifix(2)__
 
 (1) Vrije Universiteit Brussel, Department of Water and Climate, bclimate Research Group, Brussels, Belgium.
 
