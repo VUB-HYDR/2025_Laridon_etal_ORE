@@ -1,4 +1,4 @@
-# SURFER v2.9 with AMOC Tipping Calibration Module (ATCM)
+# SURFER pre3.0 with AMOC Tipping Calibration Module (ATCM)
 ---
 
 __This readme file was generated on [2025-01-10] by Amaury Laridon__
@@ -7,11 +7,11 @@ __Last updated: [2025-01-10].__
 
 DOI : _insert_
 
-__This repository contains the SURFER v2.9 models that integrates the AMOC Tipping Calibration Module (ATCM)__ used and described in Laridon et al.[1] _"Connecting Complex and Simplified Models of Tipping Elements: A Nonlinear Two-Forcing Emulator for the Atlantic Meridional Overturning Circulation"_
+__This repository contains the SURFER pre3.0 models that integrates the AMOC Tipping Calibration Module (ATCM)__ used and described in Laridon et al.[1] _"Connecting Complex and Simplified Models of Tipping Elements: A Nonlinear Two-Forcing Emulator for the Atlantic Meridional Overturning Circulation"_
 
 The ATCM is a tipping element emulator of the AMOC based on the normal form of a double-fold bifurcation. It is a two forcing variables system that allows to simulate the evolution of the AMOC under the temperature anomaly forcing and the freshwater flux forcing coming from the melting of the Greenland Ice Sheet. The ATCM can be calibrate based on two calibration experiments coming from a complex model. The calibration module is a generalization of the one present in Martinez Monteiro et al.[1,4]. 
 
-SURFER is a reduced complexity climate model with a process-based carbon cycle [1,2]. We integrate the ATCM into SURFER v2.9 to obtain a tipping element emulator of the AMOC integrate into a reduced complexity climate model.  
+SURFER is a reduced complexity climate model with a process-based carbon cycle [1,2]. We integrate the ATCM into SURFER pre3.0 to obtain a tipping element emulator of the AMOC integrate into a reduced complexity climate model.  
 
 ![Figure2](https://github.com/user-attachments/assets/ab9eab7c-a5f9-4914-9976-6278278e3af1)
 
@@ -40,7 +40,7 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 ## SURFER v2.9 with ATCM
 ---
 
-`SURFER_v2.9_ATCM.ipynb` is the Jupyter Notebook that contains the Python script of v2.9 of SURFER climate model with the ATCM. 
+`SURFER_pre3.0_ATCM.ipynb` is the Jupyter Notebook that contains the Python script of pre3.0 of SURFER climate model with the ATCM. 
 
 ### How to run 
 
