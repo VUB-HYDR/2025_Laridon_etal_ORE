@@ -1,11 +1,13 @@
 # SURFER pre3.0 with AMOC Tipping Calibration Module (ATCM)
 ---
 
-__This readme file was generated on [2025-02-14] by Amaury Laridon__
+__This readme file was generated on [2025-02-28] by Amaury Laridon__
 
-__Last updated: [2025-02-14].__
+__Last updated: [2025-02-28].__
 
-DOI : _insert_
+
+[![DOI](https://zenodo.org/badge/914400042.svg)](https://doi.org/10.5281/zenodo.14944214)
+
 
 __This repository contains the SURFER pre3.0 models that integrates the AMOC Tipping Calibration Module (ATCM)__ used and described in Laridon et al.[1] _"Connecting Complex and Simplified Models of Tipping Elements: A Nonlinear Two-Forcing Emulator for the Atlantic Meridional Overturning Circulation"_
 
