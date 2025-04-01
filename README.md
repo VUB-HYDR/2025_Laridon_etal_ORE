@@ -1,12 +1,12 @@
 # SURFER pre3.0 with AMOC Tipping Calibration Module (ATCM)
 ---
 
-__This readme file was generated on [2025-02-28] by Amaury Laridon__
+__Paper :__ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14979157.svg)](https://doi.org/10.12688/openreseurope.19479.1)
 
-__Last updated: [2025-02-28].__
+__Supplementary Material__ : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14979157.svg)](https://doi.org/10.5281/zenodo.14979157)
 
 
-[![DOI](https://zenodo.org/badge/914400042.svg)](https://doi.org/10.5281/zenodo.14944214)
+
 
 
 __This repository contains the SURFER pre3.0 models that integrates the AMOC Tipping Calibration Module (ATCM)__ used and described in Laridon et al.[1] _"Connecting Complex and Simplified Models of Tipping Elements: A Nonlinear Two-Forcing Emulator for the Atlantic Meridional Overturning Circulation"_
@@ -34,7 +34,7 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 ### How to run
 
 1. Change the `base_path` variable to the main directory in which you saved this repository.
-2. Download the cGENIE simulations _[Zenodo](https://zenodo.org/records/14514230)_ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14514230.svg)](https://doi.org/10.5281/zenodo.14514230) 
+2. Download the cGENIE simulations [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15021902.svg)](https://doi.org/10.5281/zenodo.15021902)
 3. Upload the cGENIE simulations in the `base_path/data/cGENIE simulations/Paper simulations/` directory
 4. Run the Notebook.
 
@@ -53,6 +53,19 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 ---
 
 Version January 2025
+
+## cGENIE
+---
+
+The code for the version of the ‘muffin’ release of the cGENIE Earth system model used in this paper, is tagged as v0.9.61, and is assigned a DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15021902.svg)](https://doi.org/10.5281/zenodo.15021902)
+
+Configuration files for the specific experiments presented in the paper can be found in the directory: genie-userconfigs/PUBS/published/Laridon_et_al_2025. Details of the experiments, plus the command line needed to run each one, are given in the readme.txt file in that directory. All other configuration files and boundary conditions are provided as part of the code release.
+
+A manual detailing code installation, basic model configuration, tutorials covering various aspects of model configuration, experimental design, and output, plus the processing of results, is assigned a DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13377225.svg)](https://doi.org/10.5281/zenodo.13377225)
+
+
+
+
 
 
 ## Authors
@@ -78,5 +91,9 @@ Contact author : Amaury.Laridon@vub.be
 
 - [4] V. Couplet, N. Wunderling, and M. Crucifix, ‘Tipping interactions and cascades on multimillennial time scales in a model of reduced complexity’, 2024.
 
+
+__This readme file was generated on [2025-02-28] by Amaury Laridon__
+
+__Last updated: [2025-02-28].__
 
 
