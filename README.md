@@ -6,16 +6,16 @@ __Paper :__ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14979157.svg)](h
 __Supplementary Material__ : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14979157.svg)](https://doi.org/10.5281/zenodo.14979157)
 
 
+<img width="4400" height="4000" alt="forcing_Space_T FGIS_v2" src="https://github.com/user-attachments/assets/ec35da1c-7957-4716-908e-b794f8382fe1" />
 
 
 
 __This repository contains the SURFER pre3.0 models that integrates the AMOC Tipping Calibration Module (ATCM)__ used and described in Laridon et al.[1] _"Connecting Complex and Simplified Models of Tipping Elements: A Nonlinear Two-Forcing Emulator for the Atlantic Meridional Overturning Circulation"_
 
-The ATCM is a tipping element emulator of the AMOC based on the normal form of a double-fold bifurcation. It is a two forcing variables system that allows to simulate the evolution of the AMOC under the temperature anomaly forcing and the freshwater flux forcing coming from the melting of the Greenland Ice Sheet. The ATCM can be calibrate based on two calibration experiments coming from a complex model. The calibration module is a generalization of the one present in Martinez Monteiro et al.[1,4]. 
+The ATCM is a tipping element emulator of the AMOC based on the normal form of a double-fold bifurcation. It is a two forcing variables system that allows to simulate the evolution of the AMOC under the temperature anomaly forcing and the freshwater flux forcing coming from the melting of the Greenland Ice Sheet. The ATCM can be calibrate based on three calibration experiments coming from a complex model. The calibration module is a generalization of the one present in Martinez Monteiro et al.[1,4]. 
 
 SURFER is a reduced complexity climate model with a process-based carbon cycle [1,2]. We integrate the ATCM into SURFER pre3.0 to obtain a tipping element emulator of the AMOC integrate into a reduced complexity climate model.  
 
-![Figure2](https://github.com/user-attachments/assets/ab9eab7c-a5f9-4914-9976-6278278e3af1)
 
 
 ## ATCM
@@ -29,7 +29,7 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 - cGENIE Emulation
     - Calibration of the internal dynamics parameters 
     - Calibration of the characteristic time scale parameter
-- ATCM validation on an other cGENIE experiment
+- ATCM validation on other cGENIE experiments
 
 ### How to run
 
@@ -39,7 +39,7 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 4. Run the Notebook.
 
 
-## SURFER v2.9 with ATCM
+## SURFER pre3.0 with ATCM
 ---
 
 `SURFER_pre3.0_ATCM.ipynb` is the Jupyter Notebook that contains the Python script of pre3.0 of SURFER climate model with the ATCM. 
@@ -52,7 +52,7 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 ## Version
 ---
 
-Version January 2025
+Version August 2025
 
 ## cGENIE
 ---
@@ -92,8 +92,9 @@ Contact author : Amaury.Laridon@vub.be
 - [4] V. Couplet, N. Wunderling, and M. Crucifix, ‘Tipping interactions and cascades on multimillennial time scales in a model of reduced complexity’, 2024.
 
 
-__This readme file was generated on [2025-02-28] by Amaury Laridon__
+__This readme file was generated on [2025-08-18] by Amaury Laridon__
 
-__Last updated: [2025-02-28].__
+__Last updated: [2025-08-18].__
+
 
 
