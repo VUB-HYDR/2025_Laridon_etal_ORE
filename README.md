@@ -1,9 +1,9 @@
 # SURFER pre3.0 with AMOC Tipping Calibration Module (ATCM)
 ---
 
-__Paper :__ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14979157.svg)](https://doi.org/10.12688/openreseurope.19479.1)
+__Paper :__ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14979157.svg)](https://open-research-europe.ec.europa.eu/articles/5-87)
 
-__Supplementary Material__ : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14979157.svg)](https://doi.org/10.5281/zenodo.14979157)
+__Supplementary Material__ : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14979157.svg)](https://doi.org/10.5281/zenodo.17379239)
 
 
 <img width="4400" height="4000" alt="forcing_Space_T FGIS_v2" src="https://github.com/user-attachments/assets/ec35da1c-7957-4716-908e-b794f8382fe1" />
@@ -34,7 +34,7 @@ SURFER is a reduced complexity climate model with a process-based carbon cycle [
 ### How to run
 
 1. Change the `base_path` variable to the main directory in which you saved this repository.
-2. Download the cGENIE simulations [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15021902.svg)](https://doi.org/10.5281/zenodo.15021902)
+2. Download the cGENIE simulations [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15021902.svg)]([https://doi.org/10.5281/zenodo.15021902](https://doi.org/10.5281/zenodo.17372071))
 3. Upload the cGENIE simulations in the `base_path/data/cGENIE simulations/Paper simulations/` directory
 4. Run the Notebook.
 
@@ -57,7 +57,7 @@ Version August 2025
 ## cGENIE
 ---
 
-The code for the version of the ‘muffin’ release of the cGENIE Earth system model used in this paper, is tagged as v0.9.61, and is assigned a DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15021902.svg)](https://doi.org/10.5281/zenodo.15021902)
+The code for the version of the ‘muffin’ release of the cGENIE Earth system model used in this paper, is tagged as v0.9.67, and is assigned a DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15021902.svg)]([https://doi.org/10.5281/zenodo.15021902](https://doi.org/10.5281/zenodo.17372071))
 
 Configuration files for the specific experiments presented in the paper can be found in the directory: genie-userconfigs/PUBS/published/Laridon_et_al_2025. Details of the experiments, plus the command line needed to run each one, are given in the readme.txt file in that directory. All other configuration files and boundary conditions are provided as part of the code release.
 
@@ -95,6 +95,7 @@ Contact author : Amaury.Laridon@vub.be
 __This readme file was generated on [2025-08-18] by Amaury Laridon__
 
 __Last updated: [2025-08-18].__
+
 
 
 
